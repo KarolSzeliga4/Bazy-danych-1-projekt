@@ -1,3 +1,3 @@
-# Bazy-danych-1-projekt
+# DataBases 1
 
-Projkt z przedmiotu BD1 na 5 semestrze studiów na AGH.
+Project for 'Databases 1' course (AGH WFiIS 2021).
